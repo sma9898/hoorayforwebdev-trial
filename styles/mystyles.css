@@ -1,0 +1,52 @@
+.h2 {
+    color: rebeccapurple;
+    font-family: cursive;
+}
+
+.reslist {
+    font-family: fantasy;
+    font-size: 12pt;
+}
+
+.bg1 {
+    background-image: url("../images/blue.png")
+}
+
+.maintext {
+    color: azure;
+}
+
+.bg2 {
+    background-color: #d9f5ff
+}
+
+.mylink {
+    color: white;
+}
+
+.mylink:hover {
+    color: #20a5C1
+}
+
+.imgformat {
+    width: 300px;
+    border: 10px black;
+}
+
+.schoollink {
+    color: blue;
+}
+
+.schoollink:hover {
+    color: rgb(18, 18, 160);
+}
+
+h3 {
+    font-weight: 300;
+    font-size: 16pt;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+b {
+    font-weight: 800;
+}
